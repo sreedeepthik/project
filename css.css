@@ -1,0 +1,115 @@
+#img1
+{
+	background-repeat:no-repeat; 
+	position:absolute;
+	height:37em;
+	width:75.9em;
+	top:0em;
+	left:0em;
+}
+#fon1
+{
+	position:absolute;
+	top:1.3em;
+	left:1.8em;
+	font-size:5em;
+	font-family: URW Chancery L;
+	font-style: normal;
+	font-variant: normal;
+	color:#99CCCC;
+	font-weight:bold;
+}
+#href1
+{
+	position:absolute;
+	top:10em;
+	left:16.9em;
+	font-size:2em;
+	font-family:URW Chancery L;
+	font-weight:600;
+	padding:12px 20px;
+	border:1px solid #333333;
+	border-radius:4px;
+	margin-top:20px;
+}
+.div1
+{
+	position:absolute;
+	top:50em;
+	left:0em;
+	height:100em;
+	width:80em;
+}
+.div2
+{
+	position:absolute;
+	top:50em;
+	left:0em;;
+	width:75.9em;
+	height:5em;
+	background-color:#000;
+}
+.div3
+{
+	position:absolute;
+	top:5em;
+	left:30em;
+}
+#homefon
+{
+	position:absolute;
+	top:2em;
+	left:2em;
+	color:#FF0000;
+	font-family: DejaVu Serif;
+	font-size:36px;
+}
+#href1p2
+{
+	position:absolute;
+	top:1.4em;
+	left:40em;
+	color:#CCCCCC;
+}
+#href2p2
+{
+	position:absolute;
+	top:1.4em;
+	left:46em;
+	color:#CCCCCC;
+}
+#href3p2
+{
+	position:absolute;
+	top:1.4em;
+	left:52em;
+	color:#CCCCCC;
+}
+#href4p2
+{
+	position:absolute;
+	top:1.4em;
+	left:59em;
+	color:#CCCCCC;
+}
+#href5p2
+{
+	position:absolute;
+	top:1.4em;
+	left:68em;
+	color:#CCCCCC;
+}
+#h41
+{
+	position:absolute;
+	top:0.1em;
+	left:0.5em;
+	color:#CCCCCC;
+}
+#h42
+{
+	position:absolute;
+	top:0.1em;
+	left:5em;
+	color:#00FF00;
+}
