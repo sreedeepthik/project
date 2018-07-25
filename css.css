@@ -44,22 +44,46 @@
 {
 	position:absolute;
 	top:50em;
-	left:0em;;
+	left:0em;
 	width:75.9em;
-	height:5em;
+	height:4.5em;
 	background-color:#000;
 }
 .div3
 {
 	position:absolute;
-	top:5em;
-	left:30em;
+	top:10em;
+	left:0em;
+	height:10em;
+	width:50em;
+}
+#p
+{
+	position:absolute;
+	top:0.9em;
+	left:1em;
+	height:10em;
+	width:50em;
+	font-family:DejaVu Serif;
+}
+#fonimg
+{
+	position:absolute;
+	top:1.5em;
+	left:52em;
+	height:25em;
+	width:23em;
+}
+#sig
+{
+	font-family:DejaVu Serif;
+	font-style:bold;
 }
 #homefon
 {
 	position:absolute;
-	top:2em;
-	left:2em;
+	top:3.5em;
+	left:15em;
 	color:#FF0000;
 	font-family: DejaVu Serif;
 	font-size:36px;
@@ -96,7 +120,7 @@
 {
 	position:absolute;
 	top:1.4em;
-	left:68em;
+	left:66em;
 	color:#CCCCCC;
 }
 #h41
@@ -112,4 +136,106 @@
 	top:0.1em;
 	left:5em;
 	color:#00FF00;
+}
+.divm2
+{
+	position:absolute;
+	top:90em;
+	left:0em;
+	width:75.9em;
+	height:4.5em;
+	background-color:#000;
+}
+.divm3
+{
+	position:absolute;
+	top:110em;
+	left:-1em;
+	width:71.7em;
+	height:4.5em;
+	background-color:#000;
+}
+#shopfon
+{
+	position:absolute;
+	top:10em;
+	left:1em;
+	color:#000;
+	font-family: DejaVu Serif;
+	font-size:18px;	
+	height:10em;
+	width:47em;
+}
+#shopimg
+{
+	position:absolute;
+	top:12em;
+	left:52em;
+	height:15em;
+	width:23em;
+}
+#img5
+{
+	position:absolute;
+	top:10em;
+	left:2em;
+	width:20em;
+	height:15em;
+}
+#img6
+{
+	position:absolute;
+	top:10em;
+	left:26em;
+	width:20em;
+	height:15em;
+}
+#img7
+{
+	position:absolute;
+	top:10em;
+	left:50em;
+	width:20em;
+	height:15em;
+}
+#img8
+{
+	position:absolute;
+	top:28em;
+	left:2em;
+	width:20em;
+	height:15em;
+}
+#img9
+{
+	position:absolute;
+	top:28em;
+	left:26em;
+	width:20em;
+	height:15em;
+}
+#img10
+{
+	position:absolute;
+	top:28em;
+	left:50em;
+	width:20em;
+	height:15em;
+}
+#homefongal
+{
+	position:absolute;
+	top:3em;
+	left:15em;
+	color:#FF0000;
+	font-family: DejaVu Serif;
+	font-size:36px;
+}
+#space
+{
+	position:absolute;
+	top:35em;
+	left:0em;
+	width:30em;
+	height:10em;
 }
