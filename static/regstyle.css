@@ -1,0 +1,77 @@
+#regform
+{
+	position: absolute;
+	top:3em;
+	left: 25em;
+	width: 30em;
+	height: 25em;
+	border-color: black;
+	border-width: 5px;
+	background-color: silver;
+}
+#uname
+{
+	position: absolute;
+	top: 2em;
+	left: 1em;
+}
+#utext
+{
+	position: absolute;
+	top: 2.4em;
+	left: 7em;
+}
+#uemail
+{
+	position: absolute;
+	top: 5.2em;
+	left: 1em;
+}
+#umail
+{
+	position: absolute;
+	top: 5.5em;
+	left: 7em;
+}
+#upass
+{
+	position: absolute;
+	top: 8.5em;
+	left: 1em;
+}
+#upassw
+{
+	position: absolute;
+	top: 8.5em;
+	left: 7em;
+}
+#urpass
+{
+	position: absolute;
+	top: 11.5em;
+	left: 1em;
+}
+#urepass
+{
+	position: absolute;
+	top: 11.5em;
+	left: 10em;
+}
+#unum
+{
+	position: absolute;
+	top: 14.8em;
+	left: 1em;
+}
+#urnum
+{
+	position: absolute;
+	top: 14.5em;
+	left: 7em;
+}
+#submit
+{
+	position: absolute;
+	top: 20em;
+	left: 11em;
+}

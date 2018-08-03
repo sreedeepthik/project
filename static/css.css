@@ -1,0 +1,695 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	color: green;
+}
+.divspace
+{
+	position: absolute;
+	top: 45em;
+	left: 0em;
+	color: white;
+	width: 100%;
+	height: 4em;
+	background-color: black;
+}
+#Americano
+{
+	position: absolute;
+	top: 10em;
+	left: 2em;
+}
+#imgamerico
+{
+	position: absolute;
+	top: 1em;
+	left: 1em;
+	width: 10em;
+	height: 10em;
+}
+#Americ
+{
+	position: absolute;
+	top: 5.2em;
+	left: 0.5em;
+	font-family: 'times new roman';
+	font-size: 36px;
+	color:black;
+}
+#Americ1
+{
+	position: absolute;
+	top: 12em;
+	left: -1em;
+	font-family: 'times new roman';
+	font-size: 20px;
+	color: black;
+	width: 15em;
+	height: 10em;
+}
+#cappuccino
+{
+	position: absolute;
+	top: 10em;
+	left: 2em;
+}
+#imgcappuccino
+{
+	position: absolute;
+	top: 1em;
+	left: 31em;
+	width: 10em;
+	height: 10em;
+}
+#capu
+{
+	position: absolute;
+	top: 5.2em;
+	left: 14.8em;
+	font-family: 'times new roman';
+	font-size: 36px;
+	color: black;
+}
+#capu1
+{
+	position: absolute;
+	top: 12em;
+	left: 24em;
+	font-family: 'times new roman';
+	font-size: 20px;
+	color: black;
+	width: 15em;
+	height: 10em;
+}
+#mocha
+{
+	position: absolute;
+	top: 10em;
+	left: 2em;
+}
+#imgmocha
+{
+	position: absolute;
+	top: 1em;
+	left: 59em;
+	width: 10em;
+	height: 10em;
+}
+#moch
+{
+	position: absolute;
+	top: 5.5em;
+	left: 28.5em;
+	font-family: 'times new roman';
+	font-size: 36px;
+	color: black;
+}
+#moch1
+{
+	position: absolute;
+	top: 12em;
+	left: 49em;
+	font-family: 'times new roman';
+	font-size: 20px;
+	color: black;
+	width: 12em;
+	height: 10em;
+}
+#espresso
+{
+	position: absolute;
+	top: 10em;
+	left: 2em;
+}
+#imgespresso
+{
+	position: absolute;
+	top: 21em;
+	left: 2em;
+	width: 10em;
+	height: 10em;
+}
+#esp
+{
+	position: absolute;
+	top: 15em;
+	left: 1.5em;
+	font-family: 'times new roman';
+	font-size: 36px;
+	color: black;
+}
+#esp1
+{
+	position: absolute;
+	top: 30em;
+	left: 0em;
+	font-family: 'times new roman';
+	font-size: 20px;
+	color: black;
+	width: 15em;
+	height: 10em;
+}
+#latte
+{
+	position: absolute;
+	top: 10em;
+	left: 2em;
+}
+#imglatte
+{
+	position: absolute;
+	top: 21em;
+	left: 31em;
+	width: 10em;
+	height: 10em;
+}
+#lat
+{
+	position: absolute;
+	top: 15em;
+	left: 16em;
+	font-family: 'times new roman';
+	font-size: 36px;
+	color: black;
+}
+#lat1
+{
+	position: absolute;
+	top: 30em;
+	left: 25em;
+	font-family: 'times new roman';
+	font-size: 20px;
+	color: black;
+	width: 15em;
+	height: 10em;
+}
+#breve
+{
+	position: absolute;
+	top: 10em;
+	left: 2em;
+}
+#imgbreve
+{
+	position: absolute;
+	top: 21em;
+	left: 59em;
+	width: 10em;
+	height: 10em;
+}
+#bre
+{
+	position: absolute;
+	top: 15em;
+	left: 29em;
+	font-family: 'times new roman';
+	font-size: 36px;
+	color: black;
+}
+#bre1
+{
+	position: absolute;
+	top: 30em;
+	left: 50em;
+	font-family: 'times new roman';
+	font-size: 20px;
+	color: black;
+	width: 10em;
+	height: 10em;
+}
+h1
+{
+	position: absolute;
+	top: -0.3em;
+	left: 0em;
+	color: white;
+}
+#bot
+{
+	position: absolute;
+	top: -0.3em;
+	left: 5em;
+	color: green;
+}
+.div1
+{
+	position: absolute;
+	top: 0em;
+	left: 0em;
+	color: black;
+	width: 100%;
+	height: 4em;
+	background-color: black;
+}
+#home1
+{
+	position: absolute;
+	top: 1.2em;
+	left: 50em;
+	color: gray;
+}
+#shops1
+{
+	position: absolute;
+	top: 1.2em;
+	left: 55em;
+	color: gray;
+}
+#gal1
+{
+	position: absolute;
+	top: 1.2em;
+	left: 60em;
+	color: gray;
+}
+#or1
+{
+	position: absolute;
+	top: 1.2em;
+	left: 65em;
+	color: gray;
+}
+#con1
+{
+	position: absolute;
+	top: 1.2em;
+	left: 70em;
+	color: gray;
+}
+#img1
+{
+	position: absolute;
+	top: 7em;
+	left: 50em;
+	height: 25em;
+	width: 25em;
+}
+#homefon
+{
+	position: absolute;
+	top: 5em;
+	left: 1em;
+	color: black;
+	width: 40em;
+	height: 25em;
+	font-family: 'times new roman';
+	font-size: 20px;
+}
+.div2
+{
+	position: absolute;
+	top: 40em;
+	left: 0em;
+	color: black;
+	width: 100%;
+	height: 4em;
+	background-color: black;
+}
+.div3
+{
+	position: absolute;
+	top: 95em;
+	left: 0em;
+	color: black;
+	width: 100%;
+	height: 4em;
+	background-color: black;
+}
+#shoph1
+{
+	position: absolute;
+	top: 1.5em;
+	left: 15.2em;
+	color: red;
+	font-family: 'algerian';
+	font-size: 38px;
+}
+#galh1
+{
+	position: absolute;
+	top: 2em;
+	left: 15.2em;
+	color: red;
+	font-family: 'algerian';
+	font-size: 38px;
+}
+#shopimg1
+{
+	position: absolute;
+	top: 8.5em;
+	left: 2em;
+	width: 18em;
+	height: 15em;
+}
+#shopimg2
+{
+	position: absolute;
+	top: 8.5em;
+	left: 29em;
+	width: 18em;
+	height: 15em;
+}
+#shopimg3
+{
+	position: absolute;
+	top: 8.5em;
+	left: 55em;
+	width: 18em;
+	height: 15em;
+}
+#shopimg4
+{
+	position: absolute;
+	top: 29em;
+	left: 1em;
+	width: 18em;
+	height: 15em;
+}
+#shopimg5
+{
+	position: absolute;
+	top: 29em;
+	left: 28em;
+	width: 18.5em;
+	height: 15em;
+}
+#shopimg6
+{
+	position: absolute;
+	top: 29em;
+	left: 54em;
+	width: 18.5em;
+	height: 15em;
+}
+#galimg1
+{
+	position: absolute;
+	top: 11em;
+	left: 2em;
+	width: 18.5em;
+	height: 15em;
+}
+#galimg2
+{
+	position: absolute;
+	top: 11em;
+	left: 29em;
+	width: 18.5em;
+	height: 15em;
+}
+#galimg3
+{
+	position: absolute;
+	top: 11em;
+	left: 55em;
+	width: 18.5em;
+	height: 15em;
+}
+#cappuccinotext
+{
+	position: absolute;
+	top: 8em;
+	left: 2.5em;
+	color: brown;
+	font-size: 36px;
+}
+#lattetext
+{
+	position: absolute;
+	top: 8em;
+	left: 16.5em;
+	color: brown;
+	font-size: 36px;
+}
+#espressotext
+{
+	position: absolute;
+	top: 8em;
+	left: 28em;
+	color: brown;
+	font-size: 36px;
+}
+/* Popup container - can be anything you want */
+.popup {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+.popup1 {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+.popup2 {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+.popup3 {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+.popup4 {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+.popup5 {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+/* The actual popup */
+.popup .popuptext {
+    visibility: hidden;
+    width: 20em;
+    height: 15em;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 8px 0;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -80px;
+    top: 6em;
+    left: 6em;
+}
+.popup1 .popuptext1 {
+    visibility: hidden;
+    width: 20em;
+    height: 15em;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 8px 0;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -80px;
+    top: 6em;
+    left: 32.5em;
+}
+.popup2 .popuptext2 {
+    visibility: hidden;
+    width: 20em;
+    height: 15em;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 8px 0;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -80px;
+    top: 6em;
+    left: 58.5em;
+}
+.popup3 .popuptext3 {
+    visibility: hidden;
+    width: 20em;
+    height: 15em;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 8px 0;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -80px;
+    top: 26em;
+    left: 5em;
+}
+.popup4 .popuptext4 {
+    visibility: hidden;
+    width: 20em;
+    height: 15em;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 8px 0;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -80px;
+    top: 26em;
+    left: 32em;
+}
+.popup5 .popuptext5 {
+    visibility: hidden;
+    width: 20em;
+    height: 15em;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 8px 0;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -80px;
+    top: 26em;
+    left: 57.9em;
+}
+
+/* Popup arrow */
+.popup .popuptext::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+}
+.popup1 .popuptext1::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+}
+.popup2 .popuptext2::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+}
+.popup3 .popuptext3::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+}
+.popup4 .popuptext4::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+}
+.popup5 .popuptext5::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+}
+
+/* Toggle this class - hide and show the popup */
+.popup .show {
+    visibility: visible;
+    -webkit-animation: fadeIn 1s;
+    animation: fadeIn 1s;
+}
+.popup1 .show {
+    visibility: visible;
+    -webkit-animation: fadeIn 1s;
+    animation: fadeIn 1s;
+}
+.popup2 .show {
+    visibility: visible;
+    -webkit-animation: fadeIn 1s;
+    animation: fadeIn 1s;
+}
+.popup3 .show {
+    visibility: visible;
+    -webkit-animation: fadeIn 1s;
+    animation: fadeIn 1s;
+}
+.popup4 .show {
+    visibility: visible;
+    -webkit-animation: fadeIn 1s;
+    animation: fadeIn 1s;
+}
+.popup5 .show {
+    visibility: visible;
+    -webkit-animation: fadeIn 1s;
+    animation: fadeIn 1s;
+}
+
+/* Add animation (fade in the popup) */
+@-webkit-keyframes fadeIn {
+    from {opacity: 0;} 
+    to {opacity: 1;}
+}
+
+@keyframes fadeIn {
+    from {opacity: 0;}
+    to {opacity:1 ;}
+}

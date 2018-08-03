@@ -1,0 +1,485 @@
+#omd1
+{
+	position: absolute;
+	top: 0em;
+	left: 0em;
+}
+#omd2
+{
+	position: absolute;
+	top: 5em;
+	left: 0em;
+}
+#cof
+{
+	position: absolute;
+	top: 1em;
+	left: 1em;
+	font-family: 'italic';
+	font-size: 22px;
+	color: black;
+}
+#bot
+{
+	position: absolute;
+	top: 1em;
+	left: 5em;
+	font-family: 'italic';
+	font-size: 22px;
+	color:green;	
+}
+#cafe
+{
+	position: absolute;
+	top: 3.5em;
+	left: 1.4em;
+	font-family: 'times new roman';
+	font-size: 16px;
+}
+#hr
+{
+	position: absolute;
+	top: 5em;
+	left: 0em;
+	color: red;
+	width: 76em;
+}
+#opn
+{
+	position: absolute;
+	top: 6em;
+	left: 1em;
+	color: red;
+}
+#deli
+{
+	position: absolute;
+	top: 11em;
+	left: 1em;
+	font-size: 12px;
+	width: 10em;
+}
+#space
+{
+	position: absolute;
+	top: 10em;
+	left: 0em;
+	height: 1em;
+	width: 76.3em;
+	background-color: gray;
+	color: gray;
+}
+#recom
+{
+	position: absolute;
+	top: 12em;
+	left: 0.5em;
+	font-family: 'times new remon';
+	font-style: bold;
+	font-weight: 5px;
+}
+#img1
+{
+	position: absolute;
+	top: 11em;
+	left: 1em;
+	width: 10em;
+	height: 10em;
+	color: gray;
+	background-color: gray;
+}
+#img2
+{
+	position: absolute;
+	top: 11em;
+	left: 15em;
+	width: 10em;
+	height: 10em;
+	color: gray;
+	background-color: gray;
+}
+#img3
+{
+	position: absolute;
+	top: 11em;
+	left: 29em;
+	width: 10em;
+	height: 10em;
+	color: gray;
+	background-color: gray;
+}
+#img4
+{
+	position: absolute;
+	top: 25em;
+	left: 1em;
+	width: 10em;
+	height: 10em;
+	color: gray;
+	background-color: gray;
+}
+#img5
+{
+	position: absolute;
+	top: 25em;
+	left: 15em;
+	width: 10em;
+	height: 10em;
+	color: gray;
+	background-color: gray;
+}
+#img6
+{
+	position: absolute;
+	top: 25em;
+	left: 29em;
+	width: 10em;
+	height: 10em;
+	color: gray;
+	background-color: gray;
+}
+#orimg1
+{
+	position: absolute;
+	top: 1em;
+	left: 0.5em;
+	width: 8.8em;
+	height: 6em;
+}
+#orimg2
+{
+	position: absolute;
+	top: 1em;
+	left: 0.6em;
+	width: 8.8em;
+	height: 6em;
+}
+#orimg3
+{
+	position: absolute;
+	top: 1em;
+	left: 0.6em;
+	width: 8.8em;
+	height: 6em;
+}
+#orimg4
+{
+	position: absolute;
+	top: 1em;
+	left: 0.5em;
+	width: 8.8em;
+	height: 6em;
+}
+#orimg5
+{
+	position: absolute;
+	top: 1em;
+	left: 0.5em;
+	width: 8.8em;
+	height: 6em;
+}
+#orimg6
+{
+	position: absolute;
+	top: 1em;
+	left: 0.5em;
+	width: 8.8em;
+	height: 6em;
+}
+#vegsym1
+{
+	position: absolute;
+	top: 7.5em;
+	left: 1em;
+	height: 1em;
+	width: 1em;
+}
+#vegsym2
+{
+	position: absolute;
+	top: 7.5em;
+	left: 1em;
+	height: 1em;
+	width: 1em;
+}
+#vegsym3
+{
+	position: absolute;
+	top: 7.5em;
+	left: 1em;
+	height: 1em;
+	width: 1em;
+}
+#vegsym4
+{
+	position: absolute;
+	top: 7.5em;
+	left: 1em;
+	height: 1em;
+	width: 1em;
+}
+#vegsym5
+{
+	position: absolute;
+	top: 7.5em;
+	left: 1em;
+	height: 1em;
+	width: 1em;
+}
+#vegsym6
+{
+	position: absolute;
+	top: 7.5em;
+	left: 1em;
+	height: 1em;
+	width: 1em;
+}
+#t1
+{
+	position: absolute;
+	top: 7.9em;
+	left: 2.5em;
+	font-style: italic;
+	font-family: 'absolute';
+	font-size: 16px;
+	color: black;
+}
+#tt1
+{
+	position: absolute;
+	top: 9.2em;
+	left: 3em;
+	font-style: italic;
+	font-family: 'times new roman';
+	font-size: 16px;
+	color: black;
+}
+#ttt1
+{
+	position: absolute;
+	top: 9.2em;
+	left: 4em;
+	font-style: italic;
+	font-family: 'times new roman';
+	font-size: 16px;
+	color: black;
+}
+#t2
+{
+	position: absolute;
+	top: 8em;
+	left: 2.5em;
+	font-style: italic;
+	font-family: 'absolute';
+	font-size: 16px;
+	color: black;
+}
+#tt2
+{
+	position: absolute;
+	top: 9.5em;
+	left: 3em;
+	font-style: italic;
+	font-family: 'times new roman';
+	font-size: 16px;
+	color: black;
+}
+#ttt2
+{
+	position: absolute;
+	top: 9.5em;
+	left: 3.8em;
+	font-style: italic;
+	font-family: 'times new roman';
+	font-size: 16px;
+	color: black;
+}
+#t3
+{
+	position: absolute;
+	top: 8em;
+	left: 2.5em;
+	font-style: italic;
+	font-family: 'absolute';
+	font-size: 16px;
+	color: black;
+}
+#tt3
+{
+	position: absolute;
+	top: 9.5em;
+	left: 3em;
+	font-style: italic;
+	font-family: 'times new roman';
+	font-size: 16px;
+	color: black;
+}
+#ttt3
+{
+	position: absolute;
+	top: 9.5em;
+	left: 3.8em;
+	font-style: italic;
+	font-family: 'times new roman';
+	font-size: 16px;
+	color: black;
+}
+#t4
+{
+	position: absolute;
+	top: 7.9em;
+	left: 2.5em;
+	font-style: italic;
+	font-family: 'absolute';
+	font-size: 16px;
+	color: black;
+}
+#tt4
+{
+	position: absolute;
+	top: 9.2em;
+	left: 3em;
+	font-style: italic;
+	font-family: 'times new roman';
+	font-size: 16px;
+	color: black;
+}
+#ttt4
+{
+	position: absolute;
+	top: 9.2em;
+	left: 4em;
+	font-style: italic;
+	font-family: 'times new roman';
+	font-size: 16px;
+	color: black;
+}
+#t5
+{
+	position: absolute;
+	top: 7.9em;
+	left: 2.5em;
+	font-style: italic;
+	font-family: 'absolute';
+	font-size: 16px;
+	color: black;
+}
+#tt5
+{
+	position: absolute;
+	top: 9.2em;
+	left: 3em;
+	font-style: italic;
+	font-family: 'times new roman';
+	font-size: 16px;
+	color: black;
+}
+#ttt5
+{
+	position: absolute;
+	top: 9.2em;
+	left: 4em;
+	font-style: italic;
+	font-family: 'times new roman';
+	font-size: 16px;
+	color: black;
+}
+#t6
+{
+	position: absolute;
+	top: 7.9em;
+	left: 2.5em;
+	font-style: italic;
+	font-family: 'absolute';
+	font-size: 16px;
+	color: black;
+}
+#tt6
+{
+	position: absolute;
+	top: 9.2em;
+	left: 3em;
+	font-style: italic;
+	font-family: 'times new roman';
+	font-size: 16px;
+	color: black;
+}
+#ttt6
+{
+	position: absolute;
+	top: 9.2em;
+	left: 4em;
+	font-style: italic;
+	font-family: 'times new roman';
+	font-size: 16px;
+	color: black;
+}
+#log
+{
+	position: absolute;
+	top: 12em;
+	left: 55em;
+	width: 20em;
+	height: 20em;
+	background-color: silver;
+	color: cyan;
+}
+#login
+{
+	position: absolute;
+	top: 0em;
+	left: 8em;
+	font-weight: 5px;
+	font-family: 'times new roman';
+	color: black;
+}
+#un
+{
+	position: absolute;
+	top: 3.5em;
+	left: 1em;
+	font-weight: 5px;
+	font-family: 'times new roman';
+	color: black;	
+}
+#textbox1
+{
+	position: absolute;
+	top: 4em;
+	left: 5em;
+	width: 12em;
+}
+#pass
+{
+	position: absolute;
+	top: 7em;
+	left: 1em;
+	font-weight: 5px;
+	font-family: 'times new roman';
+	color: black;	
+}
+#password
+{
+	position: absolute;
+	top: 7em;
+	left: 5em;
+	width: 12em;
+}
+#fp
+{
+	position: absolute;
+	top: 12em;
+	left: 8em;
+	font-weight: 5px;
+	font-family: 'times new roman';
+	color: black;
+}
+#rn
+{
+	position: absolute;
+	top: 15em;
+	left: 8.8em;
+	font-weight: 5px;
+	font-family: 'times new roman';
+	color: black;
+}
