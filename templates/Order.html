@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Order page</title>
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='style.css') }}">
+</head>
+<body>
+	<div id="omd1">
+		<font id="cof">COFFEE</font>
+		<font id="bot">BOT</font>
+		<font id="cafe">CAFE</font>
+		<hr id="hr">
+			<font id="opn">Open</font>
+			<font id="deli">For Delivery</font>
+		<div id="space">
+		</div>
+		<font id="recom">Recommended</font>
+		<div id="omd2">
+			<form method="POST" action="">
+				<div id="img1">
+					<img src="{{ url_for('static',filename='images/americanoorder.jpg') }}" id="orimg1">
+					<img src="{{ url_for('static',filename='images/vegsym.png') }}" id="vegsym1">
+					<font id="t1">Americano</font>
+					<font id="tt1">&#8377;</font>
+					<font id="ttt1">300</font>
+				</div>
+			</form>
+			<form method="POST" action="/Order">
+				<div id="img2">
+					<img src="{{ url_for('static',filename='images/capucino.jpg') }}" id="orimg2" name="ordername">
+					<img src="{{ url_for('static',filename='images/vegsym.png') }}" id="vegsym2">
+					<font id="t2" name="ordername">Cappuccino</font>
+					<font id="tt2">&#8377;</font>
+					<font id="ttt2" name="orderprice">125</font>
+				</div>
+			</form>
+			<form method="POST" action="">
+				<div id="img3">
+					<img src="{{ url_for('static',filename='images/latteorder.jpg') }}" id="orimg3">
+					<img src="{{ url_for('static',filename='images/vegsym.png') }}" id="vegsym3">
+					<font id="t3">Cafe Latte</font>
+					<font id="tt3">&#8377;</font>
+					<font id="ttt3">150</font>
+				</div>
+			</form>
+			<form method="POST" action="">
+				<div id="img4">
+					<img src="{{ url_for('static',filename='images/espressoorder.png') }}" id="orimg4">
+					<img src="{{ url_for('static',filename='images/vegsym.png') }}" id="vegsym4">
+					<font id="t4">Espresso</font>
+					<font id="tt4">&#8377;</font>
+					<font id="ttt4">80</font>
+				</div>
+			</form>
+			<form method="POST" action="">
+				<div id="img5">
+					<img src="{{ url_for('static',filename='images/coldcoffee.jpg') }}" id="orimg5">
+					<img src="{{ url_for('static',filename='images/vegsym.png') }}" id="vegsym5">
+					<font id="t5">Cold Coffee</font>
+					<font id="tt5">&#8377;</font>
+					<font id="ttt5">110</font>
+				</div>
+			</form>
+			<form method="POST" action="">
+				<div id="img6">
+					<img src="{{ url_for('static',filename='images/blackcoffee.jpg') }}" id="orimg6">
+					<img src="{{ url_for('static',filename='images/vegsym.png') }}" id="vegsym6">
+					<font id="t6">Black Coffee</font>
+					<font id="tt6">&#8377;</font>
+					<font id="ttt6">150</font>
+				</div>
+			</form>
+		<div id="log">
+			<form method="POST" action="">
+				<p id="login">Login</p>
+				<p id="un">Username</p>
+				<input type="text" name="name" id="textbox1"></input>
+				<p id="pass">Password</p>
+				<input type="password" name="password" id="password"></input>
+				<a href="" id="fp">Forgot password</a>
+				<a href="{{ url_for('Regstr') }}" id="rn">Register now</a>
+			</form>
+		</div>
+	</div>
+</body>
+</html>
