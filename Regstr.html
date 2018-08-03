@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Register</title>
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='regstyle.css') }}">
+</head>
+<body>
+	<div id="regform">
+		<form method="POST" action="/Regstr">
+			<p id="uname">Username</p>
+			<input type="text" name="rname" id="utext">
+			<p id="uemail">Email</p>
+			<input type="text" name="remail" id="umail">
+			<p id="upass">Password</p>
+			<input type="Password" name="rpass" id="upassw">
+			<p id="urpass">Re-enter Password</p>
+			<input type="Password" name="repass" id="urepass">
+			<p id="unum">Number</p>
+			<input type="text" name="rnum" id="urnum">
+			<button type="submit" name="submit" id="submit">Submit</button>
+		</form>
+	</div>
+</body>
+</html>
